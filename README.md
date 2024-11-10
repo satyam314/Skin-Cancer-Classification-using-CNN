@@ -1,1 +1,4 @@
 # Skin-Cancer-Classification-using-CNN
+In this project, we will build a Convolutional Neural Network (CNN)-based AI model from the ground up to classify skin images into seven distinct categories of skin cancer, including melanoma, basal cell carcinoma, squamous cell carcinoma, and more. Whether you're a beginner or an experienced programmer, this journey will provide you with essential knowledge and skills for creating and training deep learning models, primarily using the TensorFlow library with Keras.
+
+As we progress, you will explore various neural network components and architectures, such as loss functions and gradient descent, and learn how to use them to optimize models effectively. By the end, you’ll gain firsthand experience in applying these techniques to a real-world medical problem with tangible impact.
